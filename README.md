@@ -1,7 +1,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate  Developer from India</h3>
 
@@ -12,17 +11,17 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashish78754t&theme=onedark&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ashish78754&theme=onedark&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 <h3 align="left">💻Coding Profiles:</h3>
-  <a href="https://www.hackerrank.com/profile/ashish78754" target="_blank">
+  <a href="https://www.hackerrank.com/ashish78754" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/ashish78754" target="_blank">
+  <a href="https://www.leetcode.com/ashish78754" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -84,8 +83,8 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish78754&theme=radical" alt="GitHub Streak" width="50%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit6392-git&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish78754&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit6392-git&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
